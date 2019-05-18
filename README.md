@@ -1,5 +1,5 @@
 inspired by [996.ICU](https://github.com/996icu/996.ICU)，希望传播正能量。
-
+[![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
 
 # 955.HOLIDAY
 
